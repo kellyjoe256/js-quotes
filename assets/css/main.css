@@ -1,0 +1,23 @@
+.random-quote {
+    padding: 20px 10px 10px;
+}
+
+.random-quote .quote-text {
+    font-size: 1.8em;
+    line-height: 1em;
+    margin-bottom: 0.5em;
+}
+
+.random-quote .quote-author {
+    color: #000;
+    font-size: 1.25em;
+    font-weight: 500;
+    display: block;
+}
+
+.random-quote a.random {
+    display: block;
+    font-size: 0.8em;
+    margin-top: 0.8em;
+    text-decoration: underline;
+}
