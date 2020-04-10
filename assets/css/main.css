@@ -21,3 +21,8 @@
     margin-top: 0.8em;
     text-decoration: underline;
 }
+
+.tab-content > .quote > .author {
+    color: #000;
+    font-weight: 500;
+}
